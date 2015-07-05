@@ -157,7 +157,7 @@ public class MainActivity extends CardboardActivity implements CardboardView.Ste
         super.onCreate(savedInstanceState);
 
         mMyWebView = new CustomWebView( this );
-        mMyWebView.loadUrl("http://entireangle.com");
+        mMyWebView.loadUrl("http://news.google.com");
         mMyWebView.getSettings().setUserAgentString("Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/_BuildID_) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36");
         mMyWebView.getSettings().setJavaScriptEnabled(true);
         mMyWebView.setWebContentsDebuggingEnabled(true);
