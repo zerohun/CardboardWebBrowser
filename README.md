@@ -1,6 +1,8 @@
 # CardboardWebBrowser
 Just experimental project to bring web browser into google cardboard
 
+https://play.google.com/store/apps/details?id=com.entireangle.zerohoon.cardboardwebbrowser
+
 You can click things with the magnetic button.
 
 I'm having some technical issues with this project.
